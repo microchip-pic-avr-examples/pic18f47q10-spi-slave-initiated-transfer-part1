@@ -15,7 +15,7 @@ pipeline {
 	
 	environment {		
 		GITHUB_URL ='https://github.com/microchip-pic-avr-examples/pic18f47q10-spi-slave-initiated-transfer.git'
-		BITBUCKET_URL = 'https://bitbucket.microchip.com/scm/ebe/pic18f47q10-spi-slave-initiated-transferl.git'
+		BITBUCKET_URL = 'https://bitbucket.microchip.com/scm/ebe/pic18f47q10-spi-slave-initiated-transfer.git'
 		DEPLOY_TOOL_URL = 'https://bitbucket.microchip.com/scm/citd/tool-github-deploy.git'
 		DEPLOY_SCRIPT_DIR = 'tool-github-deploy'
 		DEPLOY_SCRIPT_FILE = 'deploy-source-as-is.sh'
