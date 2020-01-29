@@ -73,6 +73,7 @@ Microchip’s free MPLAB X IDE, compiler and MPLAB Code Configurator (MCC) graph
 ### Add SPIMASTER Foundation Services driver and MSSP1 peripheral
 1.	Under Device Resources, go to **Libraries** --> **Foundation Services** --> **SPIMASTER** and add **SPIMASTER** by clicking on (+) button.
 The SPIMASTER library should show up in **Project** **Resources** under Peripherals.
+
 ![](https://i.imgur.com/ZZqG2U2.png)
 
 2.	Now in SPIMASTER easy setup tab and add a driver using the "+" sign at the bottom left corner of the window.
@@ -106,7 +107,7 @@ Set the following pins:
 ![](https://i.imgur.com/OZfmMJ7.png)
 ### Pin Module Configuration
 1.	Under Project Resources, click Pin Module.
-2.	Change default names under C**ustom Name** as shown in figure.
+2.	Change default names under **Custom Name** as shown in figure.
 3.	Uncheck the **Analog** checkboxes for all the pins to configure them as digital I/Os.
 4.	Check the **Start High** checkbox for pins RB3 and RE0.
 5.	Check **WPU** checkbox for pin RB3.
