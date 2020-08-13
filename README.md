@@ -9,12 +9,12 @@ One Q10 MCU is configured as an SPI Master and the other as an SPI Slave. The de
 
 This example demonstrates, how the slave can request the master to start SPI communication, so the slave can send data to the master.
 
-**This part of the demo illustrates the SPI Master. For slave device example, refer to "[pic18f47q10-spi-slave-initiated-transfer-part2](https://bitbucket.microchip.com/projects/EBE/repos/pic18f47q10-spi-slave-initiated-transfer-part2/browse)".**
+**This part of the demo illustrates the SPI Master. For slave device example, refer to "[pic18f47q10-spi-slave-initiated-transfer-part2](https://github.com/microchip-pic-avr-examples/pic18f47q10-spi-slave-initiated-transfer-part2)".**
 
 # Useful Links
 - [PIC18-Q10 Product Family Page](https://www.microchip.com/design-centers/8-bit/pic-mcus/device-selection/pic18f-q10-product-family)
 - [PIC18F47Q10 Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40002043D.pdf)
-- [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic18f47q10-cnano)
+- [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic18f47q10)
 
 # Demo Description
  ![block_diagram](images/block_diagram.jpg)
@@ -49,7 +49,6 @@ With full program and debug capabilities, the PIC18F47Q10 Curiosity Nano evaluat
 
 ![curiosity_nano](images/curiosity_nano.jpg)
 
-Figure 1: PIC18F47Q10 Curiosity Nano board
 # Software tools
 Microchip’s free MPLAB X IDE, compiler and MPLAB Code Configurator (MCC) graphical code generator are used throughout the application firmware development to provide easy and hassle-free user experience. Following are the tool versions used for this demo application:
 
@@ -142,4 +141,4 @@ Click on save all button and Click the **Generate** button to generate firmware.
 
 
 # Demo Operation
-***Refer to "[pic18f47q10-spi-slave-initiated-transfer-part2](https://bitbucket.microchip.com/projects/EBE/repos/pic18f47q10-spi-slave-initiated-transfer-part2/browse)" for Hardware connection and Demo operation.***
+***Refer to "[pic18f47q10-spi-slave-initiated-transfer-part2](https://github.com/microchip-pic-avr-examples/pic18f47q10-spi-slave-initiated-transfer-part2)" for Hardware connection and Demo operation.***
