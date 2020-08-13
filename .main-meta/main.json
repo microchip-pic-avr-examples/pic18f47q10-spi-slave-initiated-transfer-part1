@@ -3,28 +3,28 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.",
-        "version": " ",
-        "displayName": "  ",
-        "projectName": "",
-        "shortDescription": "",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-spi-slave-initiated-transfer-part1",
+        "version": "1.0.1",
+        "displayName": "SPI slave initiated data transfer using PIC18 - Part 1",
+        "projectName": "pic18f47q10-spi-slave-initiated-transfer-part1",
+        "shortDescription": "This example demonstrates, how an SPI Slave can request an SPI Master to start SPI communication, so the slave can send data to the master.",
         "ide": {
-            "name": "",
-            "semverRange": ""
+            "name": "Mplabx",
+            "semverRange": ">=5.30.0"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "XC8",
+				"semverRange": "^2.10.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "PIC18F-Q_DFP",
+            "semverRange": "^1.3.89"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": ">=3.85.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -32,26 +32,27 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "PIC18F47Q10",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
-            "",
+            "MCC",
             [
-               "Peripherals", ""
+               "Peripherals", "SPI"
             ],
             [
-               "Peripherals", ""
-            ]            			
+               "Peripherals", "EUSART"
+            ]
         ],
         "peripherals": [
-            "",""
+            "SPI","EUSART"
         ],
         "keywords": [
-            "",
-            ""			
+            "SPI Master",
+            "SPI Slave",
+            "GPIO Interrupt"			
         ],
 		"additionalData": {
 			"longDescription": {
