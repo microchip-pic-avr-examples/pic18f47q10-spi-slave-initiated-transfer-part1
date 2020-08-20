@@ -49,6 +49,7 @@ With full program and debug capabilities, the PIC18F47Q10 Curiosity Nano evaluat
 
 ![curiosity_nano](images/curiosity_nano.jpg)
 
+Figure 1: PIC18F47Q10 Curiosity Nano board
 # Software tools
 Microchip’s free MPLAB X IDE, compiler and MPLAB Code Configurator (MCC) graphical code generator are used throughout the application firmware development to provide easy and hassle-free user experience. Following are the tool versions used for this demo application:
 

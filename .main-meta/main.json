@@ -44,7 +44,7 @@
             ],
             [
                "Peripherals", "EUSART"
-            ]
+            ]            			
         ],
         "peripherals": [
             "SPI","EUSART"
