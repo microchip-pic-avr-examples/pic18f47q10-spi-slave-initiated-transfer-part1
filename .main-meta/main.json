@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-spi-slave-initiated-transfer-part1",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "SPI slave initiated data transfer using PIC18 - Part 1",
         "projectName": "pic18f47q10-spi-slave-initiated-transfer-part1",
         "shortDescription": "This example demonstrates, how an SPI Slave can request an SPI Master to start SPI communication, so the slave can send data to the master.",
