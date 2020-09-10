@@ -13,7 +13,7 @@ This example demonstrates, how the slave can request the master to start SPI com
 
 # Useful Links
 - [PIC18-Q10 Product Family Page](https://www.microchip.com/design-centers/8-bit/pic-mcus/device-selection/pic18f-q10-product-family)
-- [PIC18F47Q10 Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40002043D.pdf)
+- [PIC18F47Q10 Data Sheet](https://www.microchip.com/40002043)
 - [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic18f47q10)
 
 # Demo Description
@@ -53,10 +53,10 @@ With full program and debug capabilities, the PIC18F47Q10 Curiosity Nano evaluat
 # Software tools
 Microchip’s free MPLAB X IDE, compiler and MPLAB Code Configurator (MCC) graphical code generator are used throughout the application firmware development to provide easy and hassle-free user experience. Following are the tool versions used for this demo application:
 
-* [MPLAB® X IDE v5.30](http://www.microchip.com/mplab/mplab-x-ide)
-* [XC8 Compiler v2.10](http://www.microchip.com/mplab/compilers)
+* [MPLAB® X IDE v5.30](https://www.microchip.com/mplab/mplab-x-ide)
+* [XC8 Compiler v2.10](https://www.microchip.com/mplab/compilers)
 * [MPLAB® Code Configurator (MCC) v3.85.1](https://www.microchip.com/mplab/mplab-code-configurator)
-* [MCC Device Libraries PIC10 / PIC12 / PIC16 / PIC18  MCUs v1.78.0](microchip.com/mplab/mplab-code-configurator)
+* [MCC Device Libraries PIC10 / PIC12 / PIC16 / PIC18  MCUs v1.78.0](https://www.microchip.com/mplab/mplab-code-configurator)
 * [Microchip PIC18F-Q Series Device Support 1.3.89](https://packs.download.microchip.com/)
 
 *Note: For running the demo, the installed tool versions should be same or later. This example is not tested with previous versions.*
